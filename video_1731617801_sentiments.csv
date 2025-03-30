@@ -1,20 +1,73 @@
 Timestamp,Transcription,Sentiment
-60,you drove through me,Neutral
-80,yes,Neutral
-85,I am now and drive,Neutral
-125,I see scooters on both sides of the road,Neutral
-160,those motorcyclists were giving me a car,Neutral
-170,set a 10:00,Neutral
-185,why is,Neutral
-190,number three so far behind Car 2,Negative
-215,yes,Neutral
-250,stop there is a driving car on the left,Neutral
-255,play,Neutral
-260,we have another,Neutral
-265,passive way,Neutral
-280,passing military checkpoint,Negative
-300,yeah,Neutral
-315,yeah,Neutral
-320,when is how about you commander I think he's,Neutral
-345,please don't run through it,Neutral
-355,in park now,Neutral
+0,,Neutral
+5," Okay, so the",Positive
+10, you're going to complete and use the key automation and the object detection system. So that means you will not need to.,Positive
+15," upgrade vehicle, and keep your needs off the steering wheel and meet off the pedals much better than that drive.",Positive
+20," Okay, so when you see that some driver indicator highlight green make sure you don't hit the brake at any point during",Positive
+25," drive. But this dog, the car cab look at will have the hood yes for getting visual",Neutral
+30," that for targets that are in the environment, the car cabboultk outshapaytich, and that screen paid them.",Neutral
+35, and if one else turns the mission. Remember to tap the targets on that ODS as well as completing the mission.,Neutral
+40, workstation task.,Neutral
+45," Alright, so all drivers picture fit on the brake. You're not removing the brake.",Positive
+50, your foot from the brake until I instruct you to remove it or cap driver you may start the car.,Neutral
+55, I'll drive with your foot still on the brake.,Neutral
+60, You drove through me.,Neutral
+65,wealthgg driver,Neutral
+70, 1.0.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1,Neutral
+75, Go back. Car cab driver and only the car cab driver.,Neutral
+80," Yes. Yeah, right. Make sure everyone is in the drive.",Positive
+85, I am now in drive. Car cap driver and only the car cap driver.,Neutral
+90, Maybe get moving forward.,Neutral
+95, as I drove through the,Neutral
+100, some driver on.,Neutral
+105, What color skater?,Neutral
+110," cross the hang, cross the body hang. Scooter. Yeah, as a cross...",Neutral
+115, but... back,Neutral
+120," It's draining, out of it.",Neutral
+125, I see scooters on both sides of the road.,Neutral
+130, this one? It's like motorcycles?,Neutral
+135," Yeah, that's on the left side of the road. Passing now",Neutral
+140," Yeah, that was a lot.",Neutral
+145,ают 아 뭐야,Neutral
+150, Do you have any target? Not yet. I hit.,Neutral
+155," Okay, that's right, but it's all okay",Positive
+160, Those motorcycles were giving me a car.,Neutral
+165," It's kind of p-dop. There's a block in the sun, the roof. Mm-hmm. Yeah. Pass R-Suit.",Positive
+170, 10 o'clock. I think we used.,Neutral
+175, August,Neutral
+180, We're also passing out our one.,Neutral
+185, Why is a car,Neutral
+190, three so far behind car two.,Negative
+195, No.,Neutral
+200,,Neutral
+205," It is driving to Hell. It's driving to Hell. They are off, at least. They are seriously driving.",Negative
+210, Is the OTS working?,Neutral
+215," Yes, sometimes there is a green butt there. This I can find out.",Negative
+220," No, you won't see anything, but Gapry should see something in the passenger seat of Podia.",Neutral
+225, It should be a wide car right now. Right now. It should be a wide car right now.,Positive
+230, Yeah. mer give me like a pillow and?... B Mic,Neutral
+235," Stand or SUV F in the air. Yes, SUV.",Neutral
+240, I see a camel.,Neutral
+245, I got cars coming up.,Neutral
+250, There's a driving white car on the left.,Neutral
+255," Yeah, it's going to be going to the left. Backpog. But it's not.",Neutral
+260, I think that was it. We have another white...,Neutral
+265, SUV and passing that one left now.,Neutral
+270, I think that was... I'm scared. I'm not scared.,Neutral
+275," 팬, unrelated 말자",Neutral
+280, Passing military checkpoint,Negative
+285,,Neutral
+290," als a choc, an oease a timontom tend.",Neutral
+295, covering it. It's got like model. Yeah.,Neutral
+300, Yeah,Neutral
+305,,Neutral
+310," Jack, do you feel like this is getting...",Neutral
+315," you enough to understand or do you want to continue? Yeah, I think.",Neutral
+320," I think it's, how about you comment it? I think it's enough.",Neutral
+325," I mean I'm having fun, but we can stop if you want to.",Negative
+330," Yeah, we kill it. So, um, all dry.",Negative
+335," FORCE PHOTOGRAPH."" 5",Neutral
+340, and breaking down.,Negative
+345, Please don't run through me. No!,Neutral
+350, We've been we're ended,Neutral
+355, in park now.,Neutral

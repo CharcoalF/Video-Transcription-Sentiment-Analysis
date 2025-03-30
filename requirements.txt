@@ -1,0 +1,13 @@
+pandas
+numpy
+opencv-python
+matplotlib
+tqdm
+ipython
+speechrecognition
+pydub
+textblob
+nltk
+seaborn
+vosk
+wave

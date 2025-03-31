@@ -12,7 +12,7 @@
    - Histogram - voice activity per 5-second window
    - Sentiment Classification Chart - Statistical Positive / Neutral / Negative Ratio
 
-**📺 Explanation Video:**  
+## **📺 Explanation Video:**  
 [<img src="img/Screenshot.png" width="400" />](https://youtu.be/xn9oyGLLxtQ)
 
 ## **⚙️ Installation**
